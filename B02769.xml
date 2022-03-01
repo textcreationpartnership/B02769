@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reply of Sir George Downing, envoy extraordinary of his Majesty of Great Brittain [sic], &amp;c. Delivered the 13. of Iuly 1662. Upon the ansvver of the Estates General of the United Provinces, to his memorial of the 20. of April last.</title>
+            <author>Downing, George, Sir, 1623?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02769</idno>
+            <idno type="STC">Wing D2109A</idno>
+            <idno type="STC">ESTC R175978</idno>
+            <idno type="EEBO-CITATION">51784497</idno>
+            <idno type="OCLC">ocm 51784497</idno>
+            <idno type="VID">174911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174911)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reply of Sir George Downing, envoy extraordinary of his Majesty of Great Brittain [sic], &amp;c. Delivered the 13. of Iuly 1662. Upon the ansvver of the Estates General of the United Provinces, to his memorial of the 20. of April last.</title>
+                  <author>Downing, George, Sir, 1623?-1684.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[The Hague? :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Nederlandsche Oost-Indische Compagnie --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174911:1" rendition="simple:additions"/>
+            <p>THE REPLY OF Sir GEORGE DOWNING, Envoy Extraordinary of his Majeſty of Great Brittain, &amp;c. <hi>Delivered the</hi> 13. <hi>of Iuly</hi> 1662.</p>
+            <p>Upon THE ANSVVER Of the ESTATES GENERAL Of the United Provinces, To His MEMORIAL of the 20. of April laſt.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:174911:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>HE underwritten Envoy Extraordi<g ref="char:EOLhyphen"/>nary of his <hi>Moſt Sacred Majeſty</hi> of Great Brittain, <hi>&amp;c.</hi> having received, examined and conſidered the anſwer of their Lordſhips the Eſtates Gene<g ref="char:EOLhyphen"/>ral of the United Provinces, of the 22. of June laſt paſt, to his Memo<g ref="char:EOLhyphen"/>rial of the 20. of April foregoing: In ſo far as the ſaid Memorial did con<g ref="char:EOLhyphen"/>cern two Engliſh Ships belonging to London, the one called the <hi>Bona Eſperanza,</hi> and the other called the <hi>Henry Bonaven<g ref="char:EOLhyphen"/>ture,</hi> finds that the matter of fact complained of, is not in the leaſt therein denied, but confeſſed and acknowledged; yet as to his demand thereupon for ſatisfaction and reparation to the perſons injured thereby, their Lordſhips indeavour to avoid it upon a double ground.</p>
+            <p>
+               <hi>Firſt, upon the account of the Treaties made in the Years of</hi> 1654. <hi>and</hi> 1659.</p>
+            <p>
+               <hi>Secondly, that though the ſaid Treaties were not yet that the perſons claiming have no right to what they demand.</hi>
+            </p>
+            <p>Now as to the firſt, the ſaid Envoy Extraordinary cannot but obſerve, that though their Lordſhips do in the beginning of their ſaid Anſwer ſtrongly alledge the ſaid Treaties; and towards the end thereof, do accuſe the perſon demanding ſa<g ref="char:EOLhyphen"/>tisfaction of great impudence for daring <hi>(as they are pleaſed to term it)</hi> to revive theſe pretences, and to importune his <hi>Majeſty</hi> therein, or trouble their Lordſhips with ſo much as the examination thereof: yet notwithſtanding throughout the ſaid Anſwer, there is not ſo much as one word to explain how theſe matters are extinguiſhed or voided by the ſaid Trea<g ref="char:EOLhyphen"/>ties; and certainly thoſe who would make ſatisfaction for ſo
+<pb n="3" facs="tcp:174911:2" rendition="simple:additions"/>conſiderable damages by Ink and Paper only, had need make out very clearly and diſtinctly, and paſt all diſpute, what they pretend and alledge; of which nature the ſaid Envoy Extra<g ref="char:EOLhyphen"/>ordinary finds not one clauſe or word in the ſaid Anſwer, and could he in the ſtricteſt and througheſt examination thereof have found the leaſt colour or ground for an allegation of that nature, he would not have troubled them with an anſwer to that particular; but their Lordſhips muſt give him leave to affirm that he doth not find in the one or the other of the ſaid Treaties, any thing that doth extinguiſh or debarre this de<g ref="char:EOLhyphen"/>mand.</p>
+            <p>As for the Treaty of 1654. it doth indeed <hi>(as is ſet down in the third Article)</hi> bar and cut off all pretences in reſpect of damages during the late War, but theſe were matters which hapned many years before, and had no relation thereunto, and which the ſaid Treaty was ſo far from aboliſhing or ta<g ref="char:EOLhyphen"/>king away, as that by the 30. Article thereof a particular and extraordinary way was ſet down for the making ſatisfaction for them. And if it could have been pretended that the per<g ref="char:EOLhyphen"/>ſons complained had not of their part purſued and fulfilled, what was of their part to be purſued and fulfilled by vertue of the ſaid Article, or that theſe matters had been thereby in any kind ended or determined, or that there had been any clauſe or words denoting that what matters ſhould not be in that way determined, notwithſtanding that the parti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s com<g ref="char:EOLhyphen"/>plaining ſhould have accordingly done and fulfilled what was thereby required to be on their part done and fulfilled, ſhould yet be aboliſhed and cut off, there might then indeed have lain from hence ſome pretence againſt them; but the perſons injured, though expecting very little good from the then uſur<g ref="char:EOLhyphen"/>ping powers (being all of them out of favour, upon the ac<g ref="char:EOLhyphen"/>count of their extraordinary loialty to his late Majeſty of glo<g ref="char:EOLhyphen"/>rious
+<pb n="4" facs="tcp:174911:3"/>memory) and three of them excepted by name, and for<g ref="char:EOLhyphen"/>feited as to their whole Eſtates; yet ſeeing themſelves in that exigency that either they muſt in purſuance of the ſaid Article put in their claim or be debarred their rights; a claim was put in before the Commiſſioners ſitting at London, within the time limited by the ſaid Article, and preſſed and purſued, as wil appear by the writing hereunto anexed, marked with the letter <hi>B Num. I.</hi> but the three moneths time limited to the ſaid Com<g ref="char:EOLhyphen"/>ſioners did expire, without giving any ſentence or determina<g ref="char:EOLhyphen"/>tion therein; and as to the further remedy ſet down in the ſaid Article, <hi>(viz.)</hi> Commiſſioners of the Proteſtant Cantons of Switſerland, to determine all ſuch matters within ſix moneths after as were not decided by the aforeſaid Commiſſioners at London, if they had met accordingly; and that the perſons claiming intereſt in theſe Ships had not addreſſed themſelves unto them, there might then indeed have been ſomething of a colour and pretence againſt them; but they never met, nor was it their buſineſs, nor in their power to cauſe them to meet, nor conſequently could their not meeting be any prejudice to them; but on the contrary, a matter of grievance and injury to the only advantage of the Eaſt India Company of this Country, who have thereby kept them from ſatisfaction ſo many years more: Suppoſe the Commiſſioners who by that Article were to meet at London had never met; or ſuppoſe they had not met till after he 18. of May, the day prefixed by that Article, after which no new allegation ſhould be admit<g ref="char:EOLhyphen"/>ted, ſhould from thence an argument have been drawn againſt theſe perſons that they were cut off from all other re<g ref="char:EOLhyphen"/>medy, or that their pretences were extinguiſhed by that Trea<g ref="char:EOLhyphen"/>ty; and the argument is the ſame as to thoſe other Comiſſio<g ref="char:EOLhyphen"/>ners, who afterwards were to have met in Swiſſerland; ſo that
+<pb n="5" facs="tcp:174911:3"/>there is nothing more clear then that the perſons intereſſed in thoſe Ships remain in <hi>ſtatu quo,</hi> and at liberty to demand ju<g ref="char:EOLhyphen"/>ſtice and ſatisfaction by other means.</p>
+            <p>And for the Treaty of 1659. there is nothing alſo can be more clear, then that that Treaty does not in the leaſt cut off or debar this matter; the general clauſe in the end thereof not debarring or cutting off all matters generally that were known in London the 20. of Jan. 1659. but only (as may ap<g ref="char:EOLhyphen"/>pear by the ſaid general clauſe thereof) ſuch matters as hapned about the time that the Poſtillion, Frederick, Francis and John were taken, or afterwards, not <hi>(or before,)</hi> but <hi>(or after<g ref="char:EOLhyphen"/>wards)</hi> known at London the 20. Januar. 1659. and the oc<g ref="char:EOLhyphen"/>caſion of inſerting that general clauſe was this, about the time when the Poſtillion, <hi>&amp;c.</hi> were taken and confiſcated in the Eaſt Indies by the Dutch Eaſt India Company, or a little after, and which was known at London the ſaid 20. of January, there were three or four other Engliſh Ships ſtopped in the Eaſt Indies by the ſaid Dutch Eaſt-India Company; but after ſome time ſet at liberty to purſue their reſpective voyages; and it being at laſt yeelded unto here to give ſatisfaction for the Poſtillion, Frederick, Francis and John, which had been taken and confiſcated it was abſolutely inſiſted upon <hi>(as ſome of their Lordships very well know)</hi> and at laſt after long debate con<g ref="char:EOLhyphen"/>ſented unto, that in caſe they would make reaſonable ſatisfa<g ref="char:EOLhyphen"/>ction for what they had taken and kept, a clauſe ſhould be in<g ref="char:EOLhyphen"/>ſerted to cut off thoſe other pretences for what they had only ſtopped for ſome time, but afterwards ſet at liberty; and ac<g ref="char:EOLhyphen"/>cordingly upon this ſingle ſcore that clauſe was inſerted, and was ſo penned as to reach its end and no further, that is to ſay, to cut off all pretences for all matters hapned in the Eaſt Indies about the time the Poſtillion, <hi>&amp;c.</hi> were taken or afterwards, not <hi>(or before)</hi> as it appears by the writing marked with letter B <hi>Num. II.</hi>
+            </p>
+            <pb n="6" facs="tcp:174911:4" rendition="simple:additions"/>
+            <p>So that hereby their Lordſhips may ſee how far the now ſetting on foot the pretences of the perſons intereſſed is from being in any kind prejudicial or contrary to the Treaties of 1654. or 1659. concerning which much more might be ſaid, but that their <hi>Lordships are pleaſed having made this objection themſelves, to wave it,</hi> and to admit the debate of this matter, upon which account alſo the ſaid Envoy Extraordinary ſaies no more of it, but only to put them in mind that the ſaid Trea<g ref="char:EOLhyphen"/>ties were neither of them made with the <hi>King his Master,</hi> nor with any of his Predeceſſors, and conſequently, there lies not upon him the leaſt obligation in point of right to take any no<g ref="char:EOLhyphen"/>tice of them; and that being ſo, and that the being admitted by his Majeſty, is meetly out of good nature and kindneſs, would it not be a ſtrange requital, and a juſt cauſe of provoca<g ref="char:EOLhyphen"/>tion, and indeed ſuch as his Majeſty can in no wiſe ſuffer, not to reſt well ſatisfied with the accompliſhment and obſervation of them according to their literal and genuine meaning, but to put a forced and extorted ſence upon them to the prejudice of his Subjects, and ſuch as was never intended at the making of them, nor could never have been demanded or expected from the Uſurpers themſelves with whom they were made, nor from his Majeſty if they had been made with him or with any of his Predeceſſors?</p>
+            <p>
+               <hi>Now for the ſecond objection,</hi> viz. <hi>that though the ſaid Treaties were not, yet that the perſons claiming have no right to what they demand; for the making good thereof their Lordships are pleaſed to alledge two things.</hi>
+            </p>
+            <p>Firſt, thoſe reaſons by which the Eaſt India Company of this Country maintain that they might with juſtice, yea that they were conſtrained to ſeize and confiſcate the Ship Bona Eſpe<g ref="char:EOLhyphen"/>ranza; and for the Henry Bonadventure, that ſhe was wholly abandoned by her Maſter and Mariners, and that they were
+<pb n="7" facs="tcp:174911:4"/>willing or made no difficulty to ſuffer the people of the Eaſe India Company of this Country to ſave the ſaid ſhip with her lading.</p>
+            <p>Secondly, that this matter hath been intirely and abſolutely ended by an amicable accord between the ſaid Eaſt India Company on the one part, and Jacob Pergens and David Goubard on the other part, and that for a valuable conſide<g ref="char:EOLhyphen"/>ration of 85000. gilders, which ſum hath been in purſuance thereof really paid by the ſaid Company.</p>
+            <p>Now as to the firſt of theſe Arguments the ſaid <hi>Envoy Ex<g ref="char:EOLhyphen"/>traordinary</hi> takes notice that their Lordſhips do not inſiſt upon it, but only (as it were <hi>en paſſant</hi>) hint thereat, nor do they ſo much as put their own ſtamp upon them, only calling them the ſaid <hi>Companies reaſons,</hi> and without ſetting down any of them in particular. And indeed no wonder, ſeeing that a grea<g ref="char:EOLhyphen"/>ter and more uncolourable violence and robbery could not be committed then was that of the taking the <hi>Bona Eſperanza,</hi> a ſhip belonging to London, ſet out from thence, laden only with Engliſh and Portugais goods, both at that time in peace and amity with this Country, and bound from <hi>Goa to Maccao, places both belonging to the ſaid Portugais,</hi> and without the leaſt occaſion offered by the ſaid ſhip, nor could there be a greater inhumanity and barbariſm then the latter, the <hi>Henry Bonad<g ref="char:EOLhyphen"/>venture</hi> not being abandoned by her Maſter and Mariners, as will appear by the writings marked with the letter C <hi>N. I, II, IV.</hi> but only ſome of them coming to the Dutch, and praying for their aſſiſtance towards the ſaving of their ſhip and goods, and under the notion of aſſiſting them to take and keep all to themſelves: And for what is ſaid of a certain paper ſigned by them, that they would not hazard their lives to ſave any thing, their Lordſhips will find ſufficiently proved by the ſaid wri<g ref="char:EOLhyphen"/>tings, that the Engliſh did actually continue in their Ship, and ſo that it was no wrack by Law, <hi>Moreover,</hi> that they did aſſiſt
+<pb n="8" facs="tcp:174911:5"/>in ſaving the goods and ſhips proviſions, as is abundantly pro<g ref="char:EOLhyphen"/>ved in the ſaid writings; to which give me leave to add, that the ſaid Comp. did ſince agree with the Portugais to pay them a hundred thouſand Roials of eight for their intereſt in the goods in the ſaid <hi>Bona Eſperanza,</hi> whereof fourſcore thouſand was actuallie paid; and for the Engliſh concerned both in the ſaid ſhip, and in the <hi>Henry Bonadventure,</hi> though they were ſuch as for their Loialtie could have nothing of favour or countenance in their concernments, nor indeed have com<g ref="char:EOLhyphen"/>mon juſtice done therein in the late diſtracted times; yet the ſaid Company did <hi>(to gain ſomething of a pretence, as if they had made ſatis faction to them)</hi> pay unto Jacob Pergens and Goubard the ſum of 85000. gilders, and that in a time when the affairs of his late <hi>Majeſty,</hi> in his Kingdoms, were in the grea<g ref="char:EOLhyphen"/>teſt diſorders and confuſion, and not capable to give the leaſt protection to any Engliſh man beyond the Seas, being about the time of his moſt execrable murther; and ſo no man will doubt but that if the ſaid Eaſt India Company could have ju<g ref="char:EOLhyphen"/>ſtified in any meaſure what was done, they would not have parted with ſuch a ſum of monie, eſpeciallie at ſuch a time up<g ref="char:EOLhyphen"/>on pretence of any damage done to the Engliſh.</p>
+            <p>Now as to the ſecond Argument, herein is indeed the life and force of this matter, and if the agreement made with the ſaid Pergens and Goubard be a good agreement, God for<g ref="char:EOLhyphen"/>bid the Eaſt India Companie of this Countrie ſhould be cal<g ref="char:EOLhyphen"/>led upon again, but if this be not a good agreement, then the pretenders have a fair and free way open for their deman<g ref="char:EOLhyphen"/>ding ſatisfaction.</p>
+            <p>Now as to Goubard, his pretence is only to 5/16 of the Ship <hi>Bona Eſperanza,</hi> but had nothing to do with the Ship <hi>Henry Bonadventure,</hi> nor with the lading of either of them, and as for his agreement, in ſo far as his perſonal concernment went, it is admitted for good and not queſtioned; but as to the ſaid
+<pb n="9" facs="tcp:174911:5" rendition="simple:additions"/>Pergins who had no intereſt in either of the Ships or their la<g ref="char:EOLhyphen"/>ding, but claims by vertue of certain procurations and tranſ<g ref="char:EOLhyphen"/>ports from William Courten, The ſaid Envoy Extraordina<g ref="char:EOLhyphen"/>ry doth anſwer that the ſaid procurations and tranſports are utterly void ad null, as appears by an Indenture hereunto joined marked with the letter D <hi>Num. I.</hi> whereby the ſaid William Courten had in the Year 1642. abſolutely transfer<g ref="char:EOLhyphen"/>red all his right and intereſt in the ſaid Ships unto Sir Paul Pinder and Sir Edward Littleton, and that upon a moſt va<g ref="char:EOLhyphen"/>luable conſideration for the ſum of 88000. pounds ſterling, principal money lent unto him.</p>
+            <p>And moreover the ſaid Courten was declared Bankrupt for 150000. pounds ſterling, by reaſon of his great loſſes in the Indies long before he gave the ſaid procurations and tranſ<g ref="char:EOLhyphen"/>ports to Pergens, as appears by the writings of the letter C <hi>Num. III.</hi> and conſequently, was incapable by the Laws of Nations for the doing of any act for the diſpoſal of his goods: And it is not amiſs to obſerve, that though the Eaſt India Company of this Country, <hi>out of their deſire of gaining ſome<g ref="char:EOLhyphen"/>thing of a colour to have ended this foul buſineſſe, did part with that inconſiderable and pitiful ſum of</hi> 85000. <hi>gilders (for ſo in<g ref="char:EOLhyphen"/>deed it was, not in it ſelf, but in compariſon of theſe loſſes and da<g ref="char:EOLhyphen"/>mages.)</hi>
+            </p>
+            <p>Yet that they were at that time ſo adviſed of the ungroun<g ref="char:EOLhyphen"/>dedneſs of the ſaid Pergens his pretences, that they did not part with a farthing to him till he had given them good ſecu<g ref="char:EOLhyphen"/>rity to repay the ſaid monie with intereſt, in caſe they ſhould be further troubled in this matter, as appears by the writings marked D <hi>Num. IV.</hi> the which ſecurity is ſtill good, ſo that the ſaid Company can be no loſers thereby.</p>
+            <p>And for what is further alledged, as if the ſaid Pergens had really and effectually paied and contented all the other per<g ref="char:EOLhyphen"/>ſons intereſſed in the Ships and lading, if this were indeed ſo,
+<pb n="10" facs="tcp:174911:6" rendition="simple:additions"/>it would be juſtly blame-worthy for them to demand ſatisfa<g ref="char:EOLhyphen"/>ction a ſecond time, but it is utterly falſe and untrue, nor hath any one of the perſons pretending ever received from the ſaid Pergens, or any other, upon this account, directly or in<g ref="char:EOLhyphen"/>drectly, the value of one farthing.</p>
+            <p>
+               <hi>And as to the two Letters written by his late Majeſty</hi> con<g ref="char:EOLhyphen"/>cerning this buſineſs in the year 1647. the one to their Lord<g ref="char:EOLhyphen"/>ſhips, and the other to Sir William Boſwel, his then Reſident in this Court; the ſaid <hi>Envoy Extraordinary</hi> cannot but great<g ref="char:EOLhyphen"/>ly wonder that their Lordſhips ſhould ſo much as mention them; <hi>what</hi> were thoſe Letters but Letters of recommenda<g ref="char:EOLhyphen"/>tion and in general terms: <hi>And</hi> was his <hi>Majesty</hi> at that time in a condition ſtrictly to examine or look into matters; <hi>had</hi> he his Councel or his Admiralties about him? <hi>he</hi> knew that William Courten had ſet out thoſe Ships before the Civil War in his Kingdoms, and had been informed that the ſaid Ships had been taken by the Dutch Eaſt India Company; <hi>and what</hi> did he demand in his ſaid Letters, but only that by the States General their help the ſaid Eaſt India Company might be brought to reaſon, as are the words in his Letter to them; <hi>and</hi> as are the words in his Letter to Sir William Boſwel, to preſs that ſatisfaction for 68884 pounds ſterling, might ſpee<g ref="char:EOLhyphen"/>dilie be made by the Netherlands Eaſt India Company; <hi>but</hi> whether that ſatisfaction to be made to the ſaid Courten was to be made to <hi>Sir Paul Pindar, and Sir Edward Littleton, and thoſe that claim under them,</hi> or to be made to Pergens, neither of thoſe Letters do ſpeak; and if they had, yet would not that in the leaſt alter or determine the caſe in hand: Let me ask your Lordſhips whether ye take any of the <hi>King</hi> my Maſter his Letters to be proofs and evidences <hi>pro</hi> or <hi>contra,</hi> though written upon the beſt and throug'ſt examination (he ſcarce re<g ref="char:EOLhyphen"/>commending any matter till firſt conſidered and examined, and reported to him by ſom of his Admiralties or Privy Coun<g ref="char:EOLhyphen"/>cel)
+<pb n="11" facs="tcp:174911:6" rendition="simple:additions"/>but only make them a ground to look into and examine matters, and judge not according thereunto, but as you find matters upon the proof and evidence.</p>
+            <p>And how comes it to paſs that theſe Letters of his late Ma<g ref="char:EOLhyphen"/>jeſty are produced in this kind, if <hi>Pinder and Littletons tranſ<g ref="char:EOLhyphen"/>ports</hi> from Courten be good, nothing of this nature can make them invalid, nor if they were invalid make them good.</p>
+            <p>And for what their Lordſhips do hint that Sir Paul Pinder did in the years 1650. and 1651. proſecute the Bewinthebbers of the Eaſt India Company, before the Magiſtrates at Amſter<g ref="char:EOLhyphen"/>dam, by one Jonas Abeels his Procureur, but did then let the ſaid ſuit fall, nor hath to their knowledge ſince revived it, and ſo would thereby inſinuate as if the ſaid Pinder had been con<g ref="char:EOLhyphen"/>vinced of his error, and thereupon let it fall. <hi>The Envoy Ex<g ref="char:EOLhyphen"/>traordinary</hi> doth reply, that the fall of the ſaid ſuit was not up<g ref="char:EOLhyphen"/>on any ſuch ground, but was occaſioned by the death of the ſaid Pinder, by which the ſaid Abeels Procuration alſo ceaſed; and the War between England and this Countrie broke out a little after, at the ending whereof the perſons intereſſed in the ſaid Ships did enter and perſue their claim before the Commiſ<g ref="char:EOLhyphen"/>ſioners that then met at London, and would have done the like in Switzerland, if the Inſtrument which was to have been ſent thither had ever been ſent, and Commiſſioners met upon them; the ſending of which Inſtrument and convoking of which Commiſſioners was not their work, nor in their power to do.</p>
+            <p>And as for having their affairs <hi>afterwards</hi> recommended to their Lordſhips in any particular way, their perſons were too black in the eys of thoſe that then ruled for them to hope for any thing of that nature, and ſo remained hopeleſs and help<g ref="char:EOLhyphen"/>leſs till the return of his moſt Sacred Majeſty our rightfull and lawfull King and Soveraign; who finding theſe his diſtreſſed and moſt loial Subjects without ſatisfaction, and not excluded
+<pb n="12" facs="tcp:174911:7" rendition="simple:additions"/>from it by any Treaties or tranſactions made in thoſe times<g ref="char:punc">▪</g> 
+               <hi>upon full deliberation and advice of his Privy Councel,</hi> was plea<g ref="char:EOLhyphen"/>ſed by his Letters dated at Whitehall the 21. of March laſt, earneſtly and particularly to recommend this matter to your Lordſhips, as appears by the writings marked with the letter A, under the numbers of <hi>I, II, III, IV, V.</hi> and the letter D, un<g ref="char:EOLhyphen"/>der the numbers <hi>I, II, III. And the Envoy Extraordinary</hi> hath moreover by this laſt Poſt but one received another Order from the ſaid Councel further inſtantly to demand and inſiſt that ſatisfaction be forth with made to the ſaid perſons, and to report with all ſpeed what he ſhall do therein to them: And he doth accordingly hereby earneſtly demand that ſuch or<g ref="char:EOLhyphen"/>ders be given, as that the ſaid Eaſt India Company do forth<g ref="char:EOLhyphen"/>with, without further delay, pay unto them what is their due for their ſaid ſhips and goods, which have been ſo long and ſo violently held from them to the ruine of many families, but to the ineſtimable gain of the ſaid Company, who have not on<g ref="char:EOLhyphen"/>ly all this while injoied the benefit of their monies, but there<g ref="char:EOLhyphen"/>by alſo utterly diſcouraged and overthrown the Trade of the Engliſh to China and thoſe parts, and ingroſſed the ſame wholly to themſelves.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Hague</hi> 
+                  <date>
+                     <hi>Iuly</hi> 13. 1662. <hi>N. S.</hi>
+                  </date>
+               </dateline>
+               <signed>GEORGE DOWNING.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
